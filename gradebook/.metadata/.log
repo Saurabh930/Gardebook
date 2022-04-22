@@ -1,0 +1,13 @@
+!SESSION 2021-11-15 18:06:04.811 -----------------------------------------------
+eclipse.buildId=3.9.3.202104302252-ga4
+java.version=1.8.0_301
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.liferay.ide.studio.ui.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.liferay.ide.studio.ui.product
+
+This is a continuation of log file F:\Downloads\gradebook\.metadata\.bak_0.log
+Created Time: 2021-11-15 20:14:15.776
+
+!ENTRY org.eclipse.rse.core 1 0 2021-11-15 20:14:15.776
+!MESSAGE Disconnect operation timed out after 120000 milliseconds.
